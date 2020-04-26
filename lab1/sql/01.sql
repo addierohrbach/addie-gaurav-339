@@ -1,3 +1,3 @@
 select id
 from data_officer
-where last_name = 'Hope';
+where first_name = 'Hope';
